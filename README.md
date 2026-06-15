@@ -16,7 +16,7 @@
 
 ## المدونة الإلكترونية (Official Blog)
 ✍️ أكتب مقالات تحليلية ومحتوى متخصص عبر مدونتي الرسمية:  
-[مدونة مهند الخضور الرسمية حول القيادة والصحة](https://mohannad-alkhdoor.blogspot.com)
+[مدونة مهند الخضور | مذكرات مهنية وتقارير استراتيجية](https://mohannad-alkhdoor.blogspot.com)
 
 ## الروابط الرسمية (Official Links)
 - [GitHub – المشاريع والهوية الرقمية](https://github.com/Mohannadalkhdoor)  
